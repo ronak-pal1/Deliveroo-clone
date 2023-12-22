@@ -1,6 +1,6 @@
-<div style="text-align:center;"># Deliveroo Clone
+<p style="text-align:center;"># Deliveroo Clone
 ## A online food delivery app
-</div>
+</p>
 
 <br><br>
 
